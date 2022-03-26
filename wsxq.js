@@ -22,6 +22,6 @@ hostname = api.momosyb.com
 var obj = JSON.parse($response.body);
  
     objc.data["isvip"] = "1";
-  
+    objc.data["balance"] = "9985";
 
 $done({body:JSON.stringify(obj)});
