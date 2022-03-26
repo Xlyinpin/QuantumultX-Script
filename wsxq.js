@@ -13,13 +13,4 @@
 *******************************
 [rewrite_local]
 # > 微商星球解锁vip
-^https:\/\/api\.momosyb\.com\/v6\/user\/index url script-response-body https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/wsxq.js
-[mitm] 
-hostname = api.momosyb.com
-*
-*
-*/
-var obj = JSON.parse($response.body);
-    obj.data.isvip = "1";
-
-$done({body:JSON.stringify(obj)});
+^https:\/\/api\.momosyb\.com\/v6\/user\/index url script-response-body https://github.com/Xlyinpin/QuantumultX-Script/blob/main/wsxq.js
