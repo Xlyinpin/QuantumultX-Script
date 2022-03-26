@@ -22,10 +22,6 @@ hostname = api.momosyb.com
 var obj = JSON.parse($response.body);
     obj.data.isvip = "1";
     obj.data.balance = 9985;
-    obj.data.neednums = "8563";
-    obj.data.is_identify = 1;
-    obj.data.username = "公众号搞鸡玩家";
-    obj.data.vipqq = "公众号搞鸡玩家";
-    obj.data.uid = "888888";
+  
 
 $done({body:JSON.stringify(obj)});
