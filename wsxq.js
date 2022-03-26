@@ -13,7 +13,7 @@
 *******************************
 [rewrite_local]
 # > 微商星球解锁vip
-^https:\/\/api\.momosyb\.com\/ url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/main/wsxq.js
+^https:\/\/api\.momosyb\.com\/v\d\/user\/index url url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/main/wsxq.js
 [mitm] 
 hostname = api.momosyb.com
 *
