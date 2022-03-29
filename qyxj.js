@@ -10,13 +10,14 @@
 
 
 
-本地重写
+[rewrite_local]
 
 https://(commerce-.*api|pay).(faceu|wecut).(com|mobi)/(commerce|apple)/(iosAppVerifyReceipt.php|v1/subscription/user_info) url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/qyxj.js
 
 
 
-主机名MITM
+
+[mitm]
 
 commerce-i18n-api.faceu.mobi,commerce-api.faceu.mobi, pay.wecut.com
 
