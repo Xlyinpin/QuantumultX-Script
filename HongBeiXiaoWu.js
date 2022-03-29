@@ -9,8 +9,8 @@
 */
  [rewrite_local]
 # > 烘焙小屋(2022.01.19)
-^https?:\/\/apiios_dq\.xiangha\.com\/v\d\/ url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/HongBeiXiaoWu.js
-^https?:\/\/appweb_dq\.xiangha\.com\/center\/pay\/home url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/HongBeiXiaoWu.js
+^https?:\/\/apiios_dq\.xiangha\.com\/v\d\/ url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/HongBeiXiaoWu.js
+^https?:\/\/appweb_dq\.xiangha\.com\/center\/pay\/home url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/HongBeiXiaoWu.js
 [mitm] 
 hostname = apiios_dq.xiangha.com, appweb_dq.xiangha.com, 101.200.225.157
 *
