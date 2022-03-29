@@ -14,7 +14,7 @@
 
 本地重写
 [rewrite_local]
-^http:\/\/passport\.beva\.com\/passport\/v1\/sdk\/getuserinfo url script-response-body bweg.js
+^http:\/\/passport\.beva\.com\/passport\/v1\/sdk\/getuserinfo url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/bweg.js
 
 
 
