@@ -1,7 +1,7 @@
 /* Quantumult X 脚本: 斑马海报vip❤
 [rewrite_local] 
 #斑马海报vip
-^https:\/\/zebra\.maka\.im\/api\/user\/info url script-response-body bmhb.js
+^https:\/\/zebra\.maka\.im\/api\/user\/info url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/bmhb.js
 [mitm] hostname = zebra.maka.im,
 */
 
