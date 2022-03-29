@@ -13,7 +13,7 @@
 
 本地重写
 
-^http:\/\/vstou\.faxingwu\.com\/huihua\/user\/getUser url script-response-body ktxj.js
+^http:\/\/vstou\.faxingwu\.com\/huihua\/user\/getUser url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/ktxj.js
 
 
 
