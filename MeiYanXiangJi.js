@@ -9,8 +9,8 @@
 */
  [rewrite_local]
 # > 美颜相机(2022.01.15)
-^https?:\/\/api\.account\.meitu\.com\/(common\/check_device_login_pwd|users\/show_current\.json) url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/MeiYanXiangJi.js
-^https?:\/\/api\.meiyan\.com\/vip\/(user_center\.json|user_info\.json) url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/MeiYanXiangJi.js
+^https?:\/\/api\.account\.meitu\.com\/(common\/check_device_login_pwd|users\/show_current\.json) url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/MeiYanXiangJi.js
+^https?:\/\/api\.meiyan\.com\/vip\/(user_center\.json|user_info\.json) url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/MeiYanXiangJi.js
 [mitm] 
 hostname = api.account.meitu.com, api.meiyan.com
 *
