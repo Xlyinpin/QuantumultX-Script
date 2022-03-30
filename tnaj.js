@@ -9,16 +9,13 @@
 
 注意事项：每次解锁需启动圈叉
 
-
-
-本地重写
+[rewrite_local]
 #铁牛爱经VIP A+
-^http:\/\/admin\.tieniupro\.com\/rest\/getUserById url script-response-body tnaj.js
+^http:\/\/admin\.tieniupro\.com\/rest\/getUserById url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/tnaj.js
 
 
 
-主机名MITM
-
+[mitm]
 admin.tieniupro.com
 
 
