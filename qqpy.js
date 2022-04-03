@@ -12,7 +12,7 @@
 注意事项：每次解锁需启动圈叉
 
 [rewrite_local] 
-^https:\/\/qianqianapi\.chanwind\.com\/v1\/user/* url script-response-body 
+^https:\/\/qianqianapi\.chanwind\.com\/v1\/user/* url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/qqpy.js 
 [mitm]
 hostname = qianqianapi.chanwind.com
 *
