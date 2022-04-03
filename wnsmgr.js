@@ -12,7 +12,7 @@
 注意事项：每次解锁需启动圈叉
 
 [rewrite_local] 
-^https:\/\/community\.snailsleep\.net\/community\/user\/homepage url script-response-body 
+^https:\/\/community\.snailsleep\.net\/community\/user\/homepage url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/wnsmgr.js 
  
 [mitm]
 hostname = challenge.snailsleep.net
