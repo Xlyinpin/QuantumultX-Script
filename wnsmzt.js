@@ -12,9 +12,9 @@
 注意事项：每次解锁需启动圈叉
 
 [rewrite_local] 
-^https:\/\/challenge\.snailsleep\.net\/snail-challenge\/vipActive\/canJoin url script-response-body 
+^https:\/\/challenge\.snailsleep\.net\/snail-challenge\/vipActive\/canJoin url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/wnsmzt.js 
 [rewrite_local] 
-^https:\/\/*.*.*.*\/snail\/v1\/profile\/get url script-response-body 
+^https:\/\/*.*.*.*\/snail\/v1\/profile\/get url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/wnsmzt.js
 [mitm]
 hostname = challenge.snailsleep.net
 *
