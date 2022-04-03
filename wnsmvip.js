@@ -12,7 +12,7 @@
 注意事项：每次解锁需启动圈叉
 
 [rewrite_local] 
-^https:\/\/snailsleep\.net\/snail\/v1\/profile\/get url script-response-body 
+^https:\/\/snailsleep\.net\/snail\/v1\/profile\/get url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/wnsmvip.js
 [mitm]
 hostname = snailsleep.net
 *
