@@ -13,8 +13,9 @@
 
 [rewrite_local] 
 ^https:\/\/snailsleep\.net\/snail\/v1\/profile\/get url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/wnsmvip.js
+^https:\/\/*.*.*.*/snail\/v1\/profile\/get url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/wnsmzt.js
 [mitm]
-hostname = snailsleep.net
+hostname = snailsleep.net,*.snailsleep.net
 *
 *
 */
