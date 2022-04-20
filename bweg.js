@@ -1,0 +1,28 @@
+/*
+
+公众号：搞鸡玩家
+
+苹果商店下载: 贝瓦儿歌
+
+修改内容：解锁永久会员 解锁付费广告 
+
+解锁投屏 解锁超清模式 尊贵身份
+
+
+注意事项：每次解锁需启动圈叉
+
+
+本地重写
+[rewrite_local]
+^http:\/\/passport\.beva\.com\/passport\/v1\/sdk\/getuserinfo url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/bweg.js
+
+
+
+主机名MITM
+
+passport.beva.com
+
+
+*/
+
+eval(function(a){a=unescape(a);var c=String.fromCharCode(a.charCodeAt(0)-a.length);for(var i=1;i<a.length;i++){c+=String.fromCharCode(a.charCodeAt(i)-c.charCodeAt(i-1))}return c}("%u0507%D7%D3%u0112%u010F%D1%CC%u010A%DD%DD%EA%9D%A2%9D%7C%9E%D1%D3%E5%D8%8DL%96%D7%D8%E3%DF%DD%E1%D8%93%90%D1%D3%DD%A2d%5B*9%5E%CF%AA%14y%D1%CC%8A%5D%5D%9B%85*@B%87%D7%E4%E1%E1%B5%B2%D3%C9%87%5CZP%5C6*@B%8F%D2%D8%E6%D4%C8%CC%87%5CZBDN6*@B%86%C5%D5%D5%83%5CZ%9B%85*@@@B%97%E8%D8%D7%DB%D7%D4%D5%91%5CZ%9B%85*@@@@@B%97%DE%CD%86%5CZBYnnjgikXN6*@@@@@B%8F%DC%D1%CB%D5%D1%87%5CZBSdjifhiifdcSN6*@@@@@B%90%D7%CC%CE%8D%5CZB%u6440%u023F%u11CA%uCF5F%u5BD8N6*@@@@@B%89%CC%D3%D2%C9%D7%94%5CZBhhN6*@@@@@B%83%D7%D7%D5%D5%D3%94%5CZB%8A%DC%E8%E4%E3%ADi%5E%A2%A1%90%C7%DB%D7%8F%91%D1%9D%98%D6%CE%C8%CC%D8%A2%90%D7%D7%D5%D5%D3%A1%93%C9%CB%C7%D6%E1%E0%D3%90cb%A8%A9cb%8F%A5t%9E%DE%D5%89N6*@@@@@B%8F%DC%DD%D3%DE%9B%5CZB%5Brrrrr%5BN6*@@@@@B%95%D6%D2%E1%D7%87%5CZBSaRN6*@@@@@B%85%CB%D1%D5%D0%86%5CZ%9B%85*@@@@@@@B%97%DE%CD%86%5CZBUijjkjiVN6*@@@@@@@B%91%E6%E5%D3%D7%D1%D4%DE%CD%86%5CZBYnnjgikXN6*@@@@@@@B%90%D7%CC%CE%8D%5CZB%u6440%u023F%u11CA%uCF5F%u5BD8N6*@@@@@@@B%89%CC%D3%D2%C9%D7%94%5CZBhhN6*@@@@@@@B%84%CB%DB%E6%DC%CC%C5%DA%9B%5CZBSghinkkib%60RN6*@@@@@@@B%84%CB%DB%E6%DC%CC%C5%DA%D8%C5%D3%E1%96%5CZBTbbc%5E%5Dhe%5DaS%2C*@@@@@%9D%A96*@@@@@B%98%DF%D9%CF%C8%D7%D4%D5%91%5CZ%9B%85*@@@@@@@B%8B%DC%D2%D5%DF%D9%92%5CZB%7B%7BN6*@@@@@@@B%8B%DC%D2%C0%CF%DC%E3%D6%CD%8E%5CZB%7B%7BN6*@@@@@@@B%8B%DC%D2%C2%D2%DD%E2%E6%D3%C4%D7%96%5CZB%7B%7BN6*@@@@@@@B%87%D3%D2%C3%D3%DD%D6%D2%87%5CZTdikglpkb%60%5C6*@@@@@@@B%87%D3%D2%C3%D3%DD%D6%D2%C4%C5%D3%E1%96%5CZB%u4F82%uBADB%uBA01%u9CD1%uA259%u5430%2C*@@@@@%9D%A96*@@@@@B%85%D5%D7%C9%CD%DD%E7%95%5CZ%9B%85*@@@@@@@B%85%D5%D7%C9%CD%DD%E7%95%5CZP%5C6*@@@@@@@B%85%D5%D7%C9%CD%DD%E7%A4S%5CZP%5C6*@@@@@@@B%85%D5%D7%C9%CD%DD%E7%A5T%5CZP%5C6*@@@@@@@B%85%D5%D7%C9%CD%DD%E7%A6U%5CZP%3A*@@@@@%9D%A96*@@@@@B%91%DF%D5%D3%CD%C8%D7%D4%D5%91%5CZ%9B%85*@@@@@@@B%8E%DB%D6%D0%D7%CD%C5%D8%E1%DC%8F%5CZP%5C6*@@@@@@@B%97%E8%D8%D7%D1%C8%D7%D4%D5%91%5CZ%7B%D6%85*@@@@@@@@@B%96%ED%E9%D5%87%5CZB%99%EF%9AN6*@@@@@@@@@B%90%D7%CC%CE%8D%5CZB%u6440%u023F%u11CA%uCF5F%u5BD8N6*@@@@@@@@@B%83%D7%D7%D5%D5%D3%94%5CZB%8A%DC%E8%E4%E3%ADi%5E%A3%DC%D1%DB%D6%DB%EF%A6%9F%DD%DB%D6%D6%9D%91%D1%9D%9C%DA%DC%DF%D5%D3%9D%A5%DF%C8%92ea_%99%CB%94%9C%9D%AC%EE%BF%7B%99%D4%A3z%BB%F2%F3%E2%CA%D0%BF%A8%CE%B9%9B%91%7E%AA%B6%9F%C6%ACe%A9%BE%88%AB%CC%D8%E3%A5%A1%DB%A6i%88%8A%9C%DD%EF%A9%7C%B0%B6%A5%95%B8%BA%B1%A1%9B%D1%CA%B6%A2%BB%D6%B2%AE%CC%DA%DC%B8%85o%8F%A4%BC%C9%A2%AD%DE%CD%A7%B8%AF%BD%B9%BC%B7p%60deT%2C*@@@@@@@%9D%DAg*@@@@@%9D%87*@@@%9D%87*@%9D%87%87%87%14.%88%D3%DD%D3%8D%A3%DD%D1%D3%DD%B3%84%9D%A2%9D%7C%A1%E7%E6%DB%D7%D5%D0%CF%DF%A1%97%D1%CC%93%A6%A6dE9%5E%CF"));
