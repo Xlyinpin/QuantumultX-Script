@@ -14,7 +14,7 @@
 本地重写
 
 [rewrite_local]
-^https:\/\/api\.xunyou\.mobi\/api\/v1\/android\/sessions url script-response-body xyjsq.js
+^https:\/\/api\.xunyou\.mobi\/api\/v1\/android\/sessions url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/xyjsq.js
 
 [mitm] 
 hostname = api.xunyou.mobi
