@@ -8,7 +8,7 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 *******************************
 [rewrite_local]
-^https?:\/\/cat\-match\.easygame2021\.com\/sheep\/v1\/game\/map\_info(.*) url script-response-body https://raw.githubusercontent.com/yangdaozhao/ylgy/master/ylgy.js
+^https?:\/\/cat\-match\.easygame2021\.com\/sheep\/v1\/game\/map\_info(.*) url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/Ylgy.js
 
 [mitm] 
 hostname = *.easygame2021.com
