@@ -8,7 +8,7 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 *******************************
 [rewrite_local]
-^http[s]s:\/\/cat-match\.easygame2021\.com\/sheep\/v1\/game\/personal_info url script-response-body wf.js
+^http[s]s:\/\/cat-match\.easygame2021\.com\/sheep\/v1\/game\/personal_info url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/Ylgy.js
 
 *
 *
