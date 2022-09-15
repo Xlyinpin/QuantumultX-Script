@@ -9,10 +9,8 @@
 *******************************
 [rewrite_local]
 ^http[s]s:\/\/cat-match\.easygame2021\.com\/sheep\/v1\/game\/personal_info url script-response-body https://raw.githubusercontent.com/Xlyinpin/QuantumultX-Script/Vip-Crack/Ylgy.js
-
-*
-*
-*/
+[mitm] 
+hostname = cat-match.easygame2021.com
 var objc = JSON.parse($response.body);
 
 objc.data["daily_count"] = "9999999999999999999";
